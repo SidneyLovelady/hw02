@@ -1,0 +1,5 @@
+
+Cells have no pins;  pin matching not needed.
+Device classes ./mag/opamp_hw02.spice and ./xschem/src/opamp_hw02_sym.spice are equivalent.
+
+Final result: Verify:  cell ./xschem/src/opamp_hw02_sym.spice has no elements and/or nodes.  Not checked.
